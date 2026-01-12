@@ -1,0 +1,38 @@
+NUT Shirt
+=========
+
+This directory contains various files (third-party originals, temporary
+modifications, and ultimate design) for T-shirt/hoodie printout, as used
+by NUT maintainers to visit IT conferences since FOSDEM 2025.
+
+Front:
+
+* "NUT UPSMON, not Oops Mom!" slogan and a sleepy computer image.
+  One of `any-computer-sleep-powered-by-nut*.*` files.
+
+Back:
+
+* "Maintainer" and Jenkins+NUT logo per Jenkins-Dynamatrix project
+  of the NUT CI farm technological foundation.
+  The `shirt-back--jenkins-nut-vector.svg` file.
+
+Sleeves (shoulders):
+
+* Numerous platforms NUT builds and runs on regularly.
+* QR code with reference to NUT web site.
+
+Lessons learned from the first print:
+
+* Vector graphics generally prints nicer, but the printer shops' fonts
+  and scaling may differ from what your vector editor/viewer shows.
+  Pay attention to print shops' preview during the order (especially
+  that the image would not overflow, or areas would not squish and
+  overlap), and keep in mind this can still come out differently.
+  Test with one print first, use a service of manual verification if
+  offered!
+* There should be more info (project name, URLs) on the front part,
+  as the back is usually blocked by a backpack. People tend to take
+  pictures for memoirs from the front, too ;)
+* However, the legible mentions on the back of the shirt are also useful
+  for cases when the wearer sits listening at a conference, while some
+  photographer pictures the audience from the back of the room.
